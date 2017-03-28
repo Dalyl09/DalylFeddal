@@ -66,6 +66,13 @@ p {
 .sidebar-wrapper a {
   color: #fff;
 }
+#pdf {
+  background-color: red;
+  text-decoration: none;
+  border: 2 px solid transparent;
+  border-radius: 2px;
+  margin-bottom: 15px;
+}
 .sidebar-wrapper .profile-container {
   padding: 30px;
   background: rgba(0, 0, 0, 0.2);
@@ -104,6 +111,9 @@ p {
 }
 .sidebar-wrapper .contact-list .email .fa {
   font-size: 14px;
+}
+.contact-list a {
+  text-decoration: none;
 }
 .sidebar-wrapper .container-block {
   padding: 30px;
